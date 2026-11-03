@@ -1,0 +1,15 @@
+{
+  "status": "metadata_imported",
+  "retrievedAt": "2026-11-03T02:57:06.309Z",
+  "sourceRecordCount": 461,
+  "normalizedRecordCount": 461,
+  "rawFile": "data/raw/central-welfare-2026-11-03-218902df5786.csv",
+  "sourceFileName": "한국사회보장정보원_복지서비스정보_20260819.csv",
+  "validation": {
+    "rejectedMissingIdentity": 0,
+    "duplicateIdCount": 0,
+    "invalidServiceUrlCount": 0,
+    "missingSummaryCount": 0,
+    "missingServiceUrlCount": 0
+  }
+}

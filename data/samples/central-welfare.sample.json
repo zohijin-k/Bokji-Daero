@@ -1,0 +1,21 @@
+{
+  "sampleOnly": true,
+  "warning": "Serialization example only. This is not an official API response and contains no real welfare service.",
+  "benefitId": "SAMPLE-NOT-OFFICIAL",
+  "benefitName": "검증 전 예시 제도",
+  "provider": null,
+  "sourceName": "한국사회보장정보원_복지서비스정보 (예시 스키마)",
+  "sourceUrl": "https://www.data.go.kr/data/15083323/fileData.do",
+  "retrievedAt": null,
+  "verifiedAt": null,
+  "effectiveFrom": null,
+  "effectiveTo": null,
+  "eligibilityRules": null,
+  "exclusionRules": null,
+  "requiredInformation": null,
+  "applicationMethod": null,
+  "applicationUrl": null,
+  "intakeStatus": "unknown",
+  "dataConfidence": "source_metadata_only",
+  "verificationStatus": "unverified"
+}

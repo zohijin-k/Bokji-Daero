@@ -1,0 +1,23 @@
+{
+  "dataset": {
+    "name": "한국사회보장정보원_복지서비스정보",
+    "provider": "한국사회보장정보원",
+    "datasetUrl": "https://www.data.go.kr/data/15083323/fileData.do",
+    "encoding": "CSV"
+  },
+  "retrievedAt": "2026-11-03T02:57:06.309Z",
+  "added": [],
+  "removed": [],
+  "modified": [],
+  "rawFile": "data/raw/central-welfare-2026-11-03-218902df5786.csv",
+  "sourceFileName": "한국사회보장정보원_복지서비스정보_20260819.csv",
+  "encoding": "UTF-8 (strictly decoded)",
+  "rawSha256": "218902df578697931ef53bc359ef057a3f1fec4caa521690b7a4e89c40bf8442",
+  "validation": {
+    "rejectedMissingIdentity": 0,
+    "duplicateIdCount": 0,
+    "invalidServiceUrlCount": 0,
+    "missingSummaryCount": 0,
+    "missingServiceUrlCount": 0
+  }
+}
